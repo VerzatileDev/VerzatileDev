@@ -14,6 +14,8 @@
   
 [![VerzatileDev's GitHub statistics](https://github-readme-stats.vercel.app/api?username=Brianlatt&theme=radical)](https://github.com/Brianlatt) 
   
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brianlatt&layout=compact&theme=tokyonight)](https://github.com/Brianlatt)
 
 
