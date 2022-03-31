@@ -18,7 +18,7 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brianlatt&layout=compact&theme=tokyonight)](https://github.com/Brianlatt)
 
-
+### 7 Day WakaTime Statistics
 <!--START_SECTION:waka-->
 
 ```text
