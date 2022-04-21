@@ -5,9 +5,9 @@
 <!--<img src="https://wakatime.com/share/@VerzatileDev/bd535d51-2b9d-4912-b0bd-87b577275e77.svg" width="500" height="300"> -->
 ### Full Stack Developer learning Game Development using c# & c++
 
-- Currently working on learning to make a " Graphics Engine "
+- Currently working on a redemtion project " Graphics Engine "
 - On the side studying HTML & CSS (I admire how websites are made and wish to learn from them)
-- Looking for a Team to work with (Internship / Opperatunity for work)
+- Looking for a Team to work with (Internship / Opperatunity work)
 
 ### Languages / Software
 
@@ -51,7 +51,7 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brianlatt&layout=compact&theme=tokyonight)](https://github.com/Brianlatt) -->
 
-### 7 Day WakaTime Statistics ( Takes Last 7 Days )  <-- Tracking broken by wakaTime, Appologies
+### 7 Day WakaTime Statistics ( Takes Last 7 Days )
 <!--START_SECTION:waka-->
 
 ```text
