@@ -3,9 +3,9 @@
 <br/>
 
 <!--<img src="https://wakatime.com/share/@VerzatileDev/bd535d51-2b9d-4912-b0bd-87b577275e77.svg" width="500" height="300"> -->
-### Full Stack Developer learning Game Development using c# & c++
+### Full Stack Developer learning Game Development
 
-- Currently working on a redemtion project " Graphics Engine "
+- Currently working on a redemtion project " Graphics Engine " & Pool Game
 - On the side studying HTML & CSS (I admire how websites are made and wish to learn from them)
 - Looking for a Team to work with (Internship / Opperatunity work)
 
