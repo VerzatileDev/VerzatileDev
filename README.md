@@ -55,9 +55,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-C#     1 hr 56 mins    ███████████████████▓░░░░░   78.95 %
-C++    30 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.77 %
-GLSL   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
