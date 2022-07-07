@@ -1,5 +1,4 @@
 ## Full Stack Developer Learning Game Development
-
 <br/>
 
 - Looking for a Team to work with (Internship / Opperatunity work)
@@ -62,6 +61,7 @@
 <a href="https://twitter.com/VerzatileDev">![Twitter Follow](https://img.shields.io/twitter/follow/VerzatileDev?style=social) 
 <a href="https://discord.gg/g4UYDQfcmK"> ![Discord](https://img.shields.io/discord/907655951719493723?label=Ztile%20Games%20Discord&logo=Discord&style=social)
 <a href="https://www.reddit.com/user/zTileGames">![Discord](https://img.shields.io/reddit/subreddit-subscribers/zTileGames?label=u%2FzTile%20Games&logoColor=purple&style=social)
+[![wakatime](https://wakatime.com/badge/user/c750bcfe-b7cb-4d8e-9808-1c02b3316496.svg)](https://wakatime.com/@c750bcfe-b7cb-4d8e-9808-1c02b3316496)
 
 
 <!-- ENABLE THESE IF REQUIRED -->
