@@ -12,7 +12,7 @@
 <br/>
 <!--                                   -->
 
-[![VerzatileDev's GitHub statistics](https://github-readme-stats.vercel.app/api?username=Brianlatt&theme=radical)](https://github.com/Brianlatt) 
+[![VerzatileDev's GitHub statistics](https://github-readme-stats.vercel.app/api?username=Brianlatt&theme=radical)](https://wakatime.com/@VerzatileDev) 
 
 
 
