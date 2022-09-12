@@ -67,7 +67,7 @@
 <!--    PLATFORMS AVAILALBE  " INCLUDE A LINK THAT FORWARD TO THE PAGE later on..    -->
 
 ### Social Media
-<a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FBrianlatt">![GitHub followers](https://img.shields.io/github/followers/Brianlatt?style=social) 
+<a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FVerzatileDev">![GitHub followers](https://img.shields.io/github/followers/VerzatileDev?style=social) 
 <a href="https://twitter.com/VerzatileDev">![Twitter Follow](https://img.shields.io/twitter/follow/VerzatileDev?style=social) 
 <a href="https://discord.gg/g4UYDQfcmK"> ![Discord](https://img.shields.io/discord/907655951719493723?label=Ztile%20Games%20Discord&logo=Discord&style=social)
 <a href="https://www.reddit.com/user/zTileGames">![Discord](https://img.shields.io/reddit/subreddit-subscribers/zTileGames?label=u%2FzTile%20Games&logoColor=purple&style=social)
