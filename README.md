@@ -2,16 +2,16 @@
 <br/>
 
 - Looking for a Team to work with (Internship / Opperatunity work)
-- Currently working on Itch.io Css / website Css & Html
+- Currently working on Itch.io Css
 - Developing an engine Through learning Modern OpenGl Found here -> <a href="https://learnopengl.com/"> <img align ="center" width = "40px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg"> </a>
-- Currently working on "Five Nights at Freddy's fan game
+- Looking to program more Games !!
 
 <!-- Space Between text and Statistics -->
 <br>
 <br/>
 <!--                                   -->
 
-[![VerzatileDev's GitHub statistics](https://github-readme-stats.vercel.app/api?username=Brianlatt&theme=radical)](https://wakatime.com/@VerzatileDev) 
+[![VerzatileDev's GitHub statistics](https://github-readme-stats.vercel.app/api?username=VerzatileDev&theme=radical)](https://wakatime.com/@VerzatileDev) 
 
 
 
