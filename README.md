@@ -1,10 +1,17 @@
-## Full Stack Developer Learning Game Development
+## Full Stack Game Developer
 <br/>
 
-- Looking for a Team to work with (Internship / Opperatunity work)
-- Currently working on Itch.io Css
+Social Media
+- <a href="https://twitter.com/VerzatileDev"> Twitter </a>
+- <a href="https://www.artstation.com/verzatiledev"> Artstation </a>
+- <a href="https://verzatiledev.itch.io/"> Itch.io </a>
+- <a href="https://www.linkedin.com/in/brian-l%C3%A4tt-53b592194/"> LinkedIn </a>
+
+
+Current Goals & Tasks
+- Aiming to find Opperatunity work (Currently Studying final year of Coventry University in Games Technology)
 - Developing an engine Through learning Modern OpenGl Found here -> <a href="https://learnopengl.com/"> <img align ="center" width = "40px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg"> </a>
-- Looking to program more Games !!
+- Exploring Itch.io Css Functionality as well as web-site HTML / JavaScript..
 
 <!-- Space Between text and Statistics -->
 <br>
@@ -66,7 +73,7 @@
 
 <!--    PLATFORMS AVAILALBE  " INCLUDE A LINK THAT FORWARD TO THE PAGE later on..    -->
 
-### Social Media
+### Media Stats & Links
 <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FVerzatileDev">![GitHub followers](https://img.shields.io/github/followers/VerzatileDev?style=social) 
 <a href="https://twitter.com/VerzatileDev">![Twitter Follow](https://img.shields.io/twitter/follow/VerzatileDev?style=social) 
 <a href="https://discord.gg/g4UYDQfcmK"> ![Discord](https://img.shields.io/discord/907655951719493723?label=Ztile%20Games%20Discord&logo=Discord&style=social)
