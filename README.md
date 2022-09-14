@@ -3,9 +3,13 @@
 
 Social Media
 - <a href="https://twitter.com/VerzatileDev"> Twitter </a>
-- <a href="https://www.artstation.com/verzatiledev"> Artstation </a>
-- <a href="https://verzatiledev.itch.io/"> Itch.io </a>
 - <a href="https://www.linkedin.com/in/brian-l%C3%A4tt-53b592194/"> LinkedIn </a>
+- <a href="https://ko-fi.com/verzatiledev"> ko-fi </a>
+- <a href="https://verzatiledev.itch.io/"> Itch.io </a>
+- <a href="https://www.artstation.com/verzatiledev"> Artstation </a>
+- <a href="https://wakatime.com/@VerzatileDev"> WakaTime </a>
+- <a href="https://globalgamejam.org/users/verzatilius"> GlobalGameJam </a>
+
 
 
 Current Goals & Tasks
