@@ -1,10 +1,4 @@
 ## Full Stack Game Developer
-<meta property="og:image" content="[https://example.com/image.jpg](https://user-images.githubusercontent.com/47317248/228007890-58d0920c-dde7-41bd-9cba-d7ca0d219df0.png)">
-
-
-![VerzDevCoverTransparentSmall](https://user-images.githubusercontent.com/47317248/228007890-58d0920c-dde7-41bd-9cba-d7ca0d219df0.png)
-
-
 <br/>
 
 Social Media
