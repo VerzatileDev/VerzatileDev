@@ -8,7 +8,6 @@
 <a href="https://twitter.com/VerzatileDev">![Twitter Follow](https://img.shields.io/twitter/follow/VerzatileDev?style=social) 
 <a href="https://discord.gg/rtTXyTCREf"> ![Discord](https://img.shields.io/discord/907655951719493723?label=verzatilium%20%20Discord&logo=Discord&style=social)
 [![wakatime](https://wakatime.com/badge/user/c750bcfe-b7cb-4d8e-9808-1c02b3316496.svg)](https://wakatime.com/@c750bcfe-b7cb-4d8e-9808-1c02b3316496)
-![Profile View Counter](https://komarev.com/ghpvc/?username=Brianlatt)
 <br/>
 
 [![VerzatileDev's GitHub statistics](https://github-readme-stats.vercel.app/api?username=VerzatileDev&theme=radical)](https://wakatime.com/@VerzatileDev) 
@@ -23,7 +22,3 @@
     3. CSS/HTML  (Github Pages, Itch.io, Web)
     4. JavaScript(Github Pages, Web)
     5. Git       (Version-Control)
-
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@VerzatileDev/52531274-8d68-4318-b5fa-4976114d43a1.png" /></a>
-
