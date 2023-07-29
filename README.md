@@ -22,3 +22,14 @@
     3. CSS/HTML  (Github Pages, Itch.io, Web)
     4. JavaScript(Github Pages, Web)
     5. Git       (Version-Control)
+
+
+> Games made / In progress / Part of
+
+    1. Yellow Bird (Learning Project). - Flappy Bird. (Unity)
+    2. Root of the Journey (Learning Project). (Unity)
+    3. Parallax Nova - Global Games Jams
+    4. Private Project - 2D Platformer. (Unity)
+    5. Peek and Impact - 3D FPS (In Development) (Unity)
+    6. Flip Off - Coventry University team Project. (Unity)
+    7. Ridew ith Joy - JetPack JoyRide. (Unity)
