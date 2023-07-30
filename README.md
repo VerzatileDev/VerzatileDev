@@ -32,4 +32,9 @@
     4. Private Project - 2D Platformer. (Unity)
     5. Peek and Impact - 3D FPS (In Development) (Unity)
     6. Flip Off - Coventry University team Project. (Unity)
-    7. Ridew ith Joy - JetPack JoyRide. (Unity)
+    7. Ridew with Joy - JetPack JoyRide. (Unity)
+
+Read about my Respositories Here:
+1. <a href="https://github.com/stars/VerzatileDev/lists/university-repositories"> University Repositories </a>
+2. <a href="https://github.com/stars/VerzatileDev/lists/game-development"> Game Development </a>
+
