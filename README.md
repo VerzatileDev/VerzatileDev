@@ -17,24 +17,24 @@
 > Hi, I'm Brian (VerzatileDev) </br>
 > Game developer / Web developer / Game Tester
  
-    1. Csharp    (Unity, GoDot)
+    1. C#        (Unity, GoDot, Software)
     2. C++       (Software, Unreal Engine, OpenGL)
     3. CSS/HTML  (Github Pages, Itch.io, Web)
-    4. JavaScript(Github Pages, Web)
-    5. Git       (Version-Control)
-
+    4. JavaScript (Github Pages, Web)
+    5. C (Software Development)
 
 > Games made / In progress / Part of
 
     1. Yellow Bird (Learning Project). - Flappy Bird. (Unity)
     2. Root of the Journey (Learning Project). (Unity)
-    3. Parallax Nova - Global Games Jams
+    3. Parallax Nova - Global Games Jams (Coventry University Project)
     4. Private Project - 2D Platformer. (Unity)
     5. Peek and Impact - 3D FPS (In Development) (Unity)
-    6. Flip Off - Coventry University team Project. (Unity)
-    7. Ridew with Joy - JetPack JoyRide. (Unity)
+    6. Flip Off - Coventry University Team Project. (Unity)
+    7. Ride with Joy - JetPack JoyRide. (Unity) (On hold)
+    8. Plazi - Platformer (Unity) (On Hold)
 
-Read about my Respositories Here:
+Respositories:
 1. <a href="https://github.com/stars/VerzatileDev/lists/university-repositories"> University Repositories </a>
 2. <a href="https://github.com/stars/VerzatileDev/lists/game-development"> Game Development </a>
 3. <a href="https://github.com/stars/VerzatileDev/lists/website-development"> Website Development </a>
