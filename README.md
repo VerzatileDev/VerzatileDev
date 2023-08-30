@@ -14,14 +14,17 @@
 
 ### **About me:**
 
-> Hi, I'm Brian (VerzatileDev) </br>
-> Game developer / Web developer / Game Tester
- 
-    1. C#        (Unity, GoDot, Software)
-    2. C++       (Software, Unreal Engine, OpenGL)
-    3. CSS/HTML  (Github Pages, Itch.io, Web)
+> (Verzatiledev) - Brian Lätt </br>
+> Web & Video Game Developer / Game Tester
+
+
+> Programming - Language Experience
+
+    1. C#         (Unity, GoDot, Software)
+    2. C++        (Software, Unreal Engine, OpenGL)
+    3. CSS/HTML   (Github Pages, Itch.io, Web)
     4. JavaScript (Github Pages, Web)
-    5. C (Software Development)
+    5. C          (Software Development)
 
 > Games made / In progress / Part of
 
