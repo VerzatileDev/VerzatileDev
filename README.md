@@ -1,11 +1,15 @@
 ## Verzatile Dev, Full Stack Game Developer
 
-<a href="https://twitter.com/VerzatileDev"> Twitter </a>  - <a href="https://www.linkedin.com/in/brian-l%C3%A4tt-53b592194/"> LinkedIn </a> - <a href="https://ko-fi.com/verzatiledev"> ko-fi </a>- <a href="https://verzatiledev.itch.io/"> Itch.io </a>- <a href="https://www.artstation.com/verzatiledev"> Artstation </a>- <a href="https://wakatime.com/@VerzatileDev"> WakaTime </a>- <a href="https://globalgamejam.org/users/verzatilius"> GlobalGameJam </a> 
-
+[![Twitter](https://img.shields.io/badge/X-Twitter-Blue?style=for-the-badge&labelColor=0074E4)](https://twitter.com/VerzatileDev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Blue?style=for-the-badge&labelColor=0074E4)](https://www.linkedin.com/in/brian-l%C3%A4tt-53b592194/)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Blue?style=for-the-badge&labelColor=0074E4)](https://ko-fi.com/verzatiledev)
+[![Itch.io](https://img.shields.io/badge/Itch.io-Blue?style=for-the-badge&labelColor=0074E4)](https://verzatiledev.itch.io/)
+[![Artstation](https://img.shields.io/badge/Artstation-Blue?style=for-the-badge&labelColor=0074E4)](https://www.artstation.com/verzatiledev)
+[![WakaTime](https://img.shields.io/badge/WakaTime-Blue?style=for-the-badge&labelColor=0074E4)](https://wakatime.com/@VerzatileDev)
+[![GlobalGameJam](https://img.shields.io/badge/GlobalGameJam-Blue?style=for-the-badge&labelColor=0074E4)](https://globalgamejam.org/users/verzatilius)
 
 <!--    PLATFORMS AVAILABLE    -->
-<a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FVerzatileDev">![GitHub followers](https://img.shields.io/github/followers/VerzatileDev?style=social) 
-<a href="https://twitter.com/VerzatileDev">![Twitter Follow](https://img.shields.io/twitter/follow/VerzatileDev?style=social) 
+<a href="https://twitter.com/VerzatileDev">![Twitter Follow](https://img.shields.io/twitter/follow/VerzatileDev?style=social)
 <a href="https://discord.gg/rtTXyTCREf"> ![Discord](https://img.shields.io/discord/907655951719493723?label=verzatilium%20%20Discord&logo=Discord&style=social)
 [![wakatime](https://wakatime.com/badge/user/c750bcfe-b7cb-4d8e-9808-1c02b3316496.svg)](https://wakatime.com/@c750bcfe-b7cb-4d8e-9808-1c02b3316496)
 <br/>
