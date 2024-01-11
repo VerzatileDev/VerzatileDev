@@ -8,21 +8,23 @@
 [![WakaTime](https://img.shields.io/badge/WakaTime-Blue?style=for-the-badge&labelColor=0074E4)](https://wakatime.com/@VerzatileDev)
 [![GlobalGameJam](https://img.shields.io/badge/GlobalGameJam-Blue?style=for-the-badge&labelColor=0074E4)](https://globalgamejam.org/users/verzatilius)
 
-<!--    PLATFORMS AVAILABLE    -->
-<a href="https://twitter.com/VerzatileDev">![Twitter Follow](https://img.shields.io/twitter/follow/VerzatileDev?style=social)
-<a href="https://discord.gg/rtTXyTCREf"> ![Discord](https://img.shields.io/discord/907655951719493723?label=verzatilium%20%20Discord&logo=Discord&style=social)
-[![wakatime](https://wakatime.com/badge/user/c750bcfe-b7cb-4d8e-9808-1c02b3316496.svg)](https://wakatime.com/@c750bcfe-b7cb-4d8e-9808-1c02b3316496)
-<br/>
 
-[![VerzatileDev's GitHub statistics](https://github-readme-stats.vercel.app/api?username=VerzatileDev&theme=radical)](https://wakatime.com/@VerzatileDev) 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/VerzatileDev/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=dark)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/VerzatileDev/langs?time_range=one_year&use_percent=True&include_private=True&loc_metric=changed&theme=dark)](https://githubtrends.io)
+
+<!--    PLATFORMS AVAILABLE    -->
+[![wakatime](https://wakatime.com/badge/user/c750bcfe-b7cb-4d8e-9808-1c02b3316496.svg?style=for-the-badge&label=%20&logo=WakaTime&logoColor=black&color=black&labelColor=black)](https://wakatime.com/@c750bcfe-b7cb-4d8e-9808-1c02b3316496)
+<br/>
 
 ### **About me:**
 
-> (Verzatiledev) - Brian Lätt </br>
-> Web & Video Game Developer / Game Tester
+>Hi, I'm Brian, known as VerzatileDev. <br>
+>I'm a Web and Video Game / Web Developer with a passion for crafting immersive gaming experiences. <br>
+>Here's a glimpse into my coding journey:
+>
 
 
-> Programming - Language Experience
+#### Programming - Experience
 
     1. C#         (Unity, GoDot, Software)
     2. C++        (Software, Unreal Engine, OpenGL)
@@ -30,21 +32,25 @@
     4. JavaScript (Github Pages, Web)
     5. C          (Software Development)
 
-> Games made / In progress / Part of
+#### Games made / In progress / Part of
 
-    1. Yellow Bird (Learning Project). - Flappy Bird. (Unity) (Finished)
-    2. Root of the Journey (Learning Project). (Unity) (Disbanded Due to Policy)
-    3. Parallax Nova - Global Games Jams (Coventry University Project) (Finished)
-    4. Private Project - 2D Platformer. (Unity) (Disbanded Due to Policy)
-    5. Peek and Impact - 3D FPS (Unreal Engine) (In Development)
-    6. Flip Off - Coventry University Team Project. (Unity) (Finished)
-    7. Ride with Joy - JetPack JoyRide. (Unity) (Disbanded Due to Policy)
-    8. Plazi - Platformer (Unity) (Disbanded Due to Policy)
+    1. Yellow Bird (Learning Project). - Flappy Bird. (Unity) (Finished).
+    2. Root of the Journey (Learning Project). (Unity) (On Hold).
+    3. Parallax Nova - Global Games Jams (Coventry University Project) (Finished).
+    4. Private Project - 2D Platformer. (Unity) (On Hold).
+    5. Peek and Impact - 3D FPS (Unreal Engine) (On Hold).
+    6. Flip Off - Coventry University Team Project. (Unity) (Finished).
+    7. Ride with Joy - JetPack JoyRide. (Unity) (On Hold).
+    8. Plazi - Platformer (Unity) (On Hold).
 
-Respositories:
+#### Respositories:
 1. <a href="https://github.com/stars/VerzatileDev/lists/university-repositories"> University Repositories </a>
 2. <a href="https://github.com/stars/VerzatileDev/lists/game-development"> Game Development </a>
 3. <a href="https://github.com/stars/VerzatileDev/lists/website-development"> Website Development </a>
 4. <a href="https://github.com/stars/VerzatileDev/lists/collaboration"> Collaboration </a>
 
 
+#### Featured: 
+
+[![GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=VerzatileDevOrg&repo=Programming_HandBook&theme=react&hide_border=true)](https://github.com/VerzatileDevOrg/Programming_HandBook)
+[![Itchio_HandBook Repo](https://github-readme-stats.vercel.app/api/pin/?username=VerzatileDev&repo=Itchio_HandBook&theme=react&hide_border=true)](https://github.com/VerzatileDev/Itchio_HandBook)
