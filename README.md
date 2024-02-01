@@ -38,7 +38,7 @@
     2. Root of the Journey (Learning Project). (Unity) (On Hold).
     3. Parallax Nova - Global Games Jams (Coventry University Project) (Finished).
     4. Private Project - 2D Platformer. (Unity) (On Hold).
-    5. Peek and Impact - 3D FPS (Unreal Engine) (On Hold).
+    5. Peek and Impact - 3D FPS (Unreal Engine) (In Development)
     6. Flip Off - Coventry University Team Project. (Unity) (Finished).
     7. Ride with Joy - JetPack JoyRide. (Unity) (On Hold).
     8. Plazi - Platformer (Unity) (On Hold).
