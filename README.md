@@ -40,7 +40,7 @@
     5. Peek and Impact - 3D FPS (Unreal Engine) (In Development)
     6. Flip Off - Coventry University Team Project. (Unity) (Finished).
     7. Ride with Joy - JetPack JoyRide. (Unity) (On Hold).
-    8. Plazi - Platformer (Unity) (On Hold).
+    8. Plazi - Platformer (Unity) (Working on).
     9. unreal shooter ( unreal engine) platformer
 
 #### Respositories:
