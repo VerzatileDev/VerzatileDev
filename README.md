@@ -28,8 +28,7 @@
     1. C#         (Unity, GoDot, Software)
     2. C++        (Software, Unreal Engine, OpenGL)
     3. CSS/HTML   (Github Pages, Itch.io, Web)
-    4. JavaScript (Github Pages, Web)
-    5. C          (Software Development)
+    4. C          (Software Development)
 
 #### Games made / In progress / Part of
 
