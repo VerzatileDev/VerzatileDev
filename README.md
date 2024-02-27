@@ -8,10 +8,6 @@
 [![WakaTime](https://img.shields.io/badge/WakaTime-Blue?style=for-the-badge&labelColor=0074E4)](https://wakatime.com/@VerzatileDev)
 [![GlobalGameJam](https://img.shields.io/badge/GlobalGameJam-Blue?style=for-the-badge&labelColor=0074E4)](https://globalgamejam.org/users/verzatilius)
 
-
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/VerzatileDev/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=dark)](https://githubtrends.io)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/VerzatileDev/langs?time_range=one_year&use_percent=True&include_private=True&loc_metric=changed&theme=dark)](https://githubtrends.io)
-
 <!--    PLATFORMS AVAILABLE    -->
 [![wakatime](https://wakatime.com/badge/user/c750bcfe-b7cb-4d8e-9808-1c02b3316496.svg?style=for-the-badge&label=%20&logo=WakaTime&logoColor=black&color=black&labelColor=black)](https://wakatime.com/@c750bcfe-b7cb-4d8e-9808-1c02b3316496)
 <br/>
