@@ -21,7 +21,7 @@
 
 #### Programming - Experience
 
-    1. C#         (Unity, GoDot, Software)
+    1. C#         (Unity, Software)
     2. C++        (Software, Unreal Engine, OpenGL)
     3. CSS/HTML   (Github Pages, Itch.io, Web)
     4. C          (Software Development)
