@@ -36,7 +36,6 @@
     6. Ride with Joy - JetPack JoyRide. (Unity) (On Hold).
     7. Plazi - Platformer (Unity) (Working on).
     8. Private Project.
-    9. Private Project.
 
 #### Respositories:
 1. <a href="https://github.com/stars/VerzatileDev/lists/university-repositories"> University Repositories </a>
