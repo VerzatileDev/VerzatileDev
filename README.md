@@ -16,7 +16,7 @@
 
 >Hi, I'm Brian, known as VerzatileDev. <br>
 >I'm a Web and Video Game Developer with a passion for crafting immersive gaming experiences. <br>
->Coding journey:
+>Coding journey
 
 
 #### Programming - Experience
