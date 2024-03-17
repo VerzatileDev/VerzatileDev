@@ -42,6 +42,7 @@ Experienced Games Technology graduate with a strong affinity for merging creativ
 3. <a href="https://github.com/stars/VerzatileDev/lists/website-development"> Website Development Repositories </a>
 4. <a href="https://github.com/stars/VerzatileDev/lists/collaboration"> Open Source & Collaboration Repositories </a>
 
+#
 
 #### Featured Repositories: 
 
