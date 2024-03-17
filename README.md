@@ -1,50 +1,49 @@
-## Verzatile Dev, Full Stack Game Developer
+### <img src="https://avatars.githubusercontent.com/u/47317248?v=4" alt="Image Alt Text" width="80" style="border-radius: 50%;"> VerzatileDev - Brian Lätt
 
-[![Twitter](https://img.shields.io/badge/X-Twitter-Blue?style=for-the-badge&labelColor=0074E4)](https://twitter.com/VerzatileDev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Blue?style=for-the-badge&labelColor=0074E4)](https://www.linkedin.com/in/brian-l%C3%A4tt-53b592194/)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Blue?style=for-the-badge&labelColor=0074E4)](https://ko-fi.com/verzatiledev)
-[![Itch.io](https://img.shields.io/badge/Itch.io-Blue?style=for-the-badge&labelColor=0074E4)](https://verzatiledev.itch.io/)
-[![Artstation](https://img.shields.io/badge/Artstation-Blue?style=for-the-badge&labelColor=0074E4)](https://www.artstation.com/verzatiledev)
-[![WakaTime](https://img.shields.io/badge/WakaTime-Blue?style=for-the-badge&labelColor=0074E4)](https://wakatime.com/@VerzatileDev)
-[![GlobalGameJam](https://img.shields.io/badge/GlobalGameJam-Blue?style=for-the-badge&labelColor=0074E4)](https://globalgamejam.org/users/verzatilius)
+<p align="left">
+    <a href="https://github.com/Verzatiledev?tab=followers">
+        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Verzatiledev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Verzatiledev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <a href="https://wakatime.com/@c750bcfe-b7cb-4d8e-9808-1c02b3316496">
+        <img alt="total stars" title="Total stars on GitHub" src="https://wakatime.com/badge/user/c750bcfe-b7cb-4d8e-9808-1c02b3316496.svg?style=for-the-badge&label=%20&logo=WakaTime&logoColor=black&color=black&labelColor=black"/></a>
+    <a href="https://github.com/Verzatiledev">
+    <img alt="Total Contributions" title="Total Contributions on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?style=for-the-badge&label=Contributions&logo=graph&logoColor=white&color=blue&labelColor=gray&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DVerzatileDev%26type%3Djson"/>
+    </a>
+    <a href="https://linktr.ee/verzatiledev">
+    <img alt="URL to medias" title="Page to Contact" src="https://custom-icon-badges.demolab.com/badge/-plum?style=for-the-badge&logo=comment-discussion&logoColor=white&color=gray&label=Contact"/>
+    </a>
 
+</p>
 
-[![wakatime](https://wakatime.com/badge/user/c750bcfe-b7cb-4d8e-9808-1c02b3316496.svg?style=for-the-badge&label=%20&logo=WakaTime&logoColor=black&color=black&labelColor=black)](https://wakatime.com/@c750bcfe-b7cb-4d8e-9808-1c02b3316496)
-<br/>
+Experienced Games Technology graduate with a strong affinity for merging creativity with cutting-edge technology. My journey into game development and software engineering commenced during my undergraduate studies, where I cultivated a passion for crafting immersive experiences through code. With a keen interest in open source development, I am dedicated to exploring innovative solutions and contributing to the advancement of interactive entertainment. Eager to collaborate with like-minded professionals to push the boundaries of possibility in the field.
 
-### **About me:**
-
->Hi, I'm Brian, known as VerzatileDev. <br>
->I'm a Web and Video Game Developer with a passion for crafting immersive gaming experiences. <br>
->Coding journey
-
-
-#### Programming - Experience
-
-    1. C#         (Unity, Software)
-    2. C++        (Software)
-    3. CSS/HTML   (Github Pages, Itch.io, Web)
-    4. C          (Software Development)
-
-#### Games made / In progress / Part of
-
-    1. Yellow Bird (Learning Project). - Flappy Bird. (Unity) (Finished).
-    2. Root of the Journey (Learning Project). (Unity) (On Hold).
-    3. Parallax Nova - Global Games Jams (Coventry University Project) (Finished).
-    4. Peek and Impact - 3D FPS (Unreal Engine) (In Development)
-    5. Flip Off - Coventry University Team Project. (Unity) (Finished).
-    6. Ride with Joy - JetPack JoyRide. (Unity) (On Hold).
-    7. Plazi - Platformer (Unity) (Working on).
-    8. Private Project.
-
-#### Respositories:
-1. <a href="https://github.com/stars/VerzatileDev/lists/university-repositories"> University Repositories </a>
-2. <a href="https://github.com/stars/VerzatileDev/lists/game-development"> Game Development </a>
-3. <a href="https://github.com/stars/VerzatileDev/lists/website-development"> Website Development </a>
-4. <a href="https://github.com/stars/VerzatileDev/lists/collaboration"> Collaboration </a>
+#
 
 
-#### Featured: 
+#### Language Experience
+
+
+1. C
+2. C#
+4. C++
+5. .Net
+6. Python
+7. Css/Html/Js
+
+#
+
+#### Portfolio
+
+1. <a href="https://github.com/stars/VerzatileDev/lists/university-repositories"> University Software Repositories </a>
+2. <a href="https://github.com/stars/VerzatileDev/lists/game-development"> Video Game Development Repositories </a>
+3. <a href="https://github.com/stars/VerzatileDev/lists/website-development"> Website Development Repositories </a>
+4. <a href="https://github.com/stars/VerzatileDev/lists/collaboration"> Open Source & Collaboration Repositories </a>
+
+#
+
+#### Featured Repositories: 
 
 [![GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=VerzatileDevOrg&repo=Programming_HandBook&theme=react&hide_border=true)](https://github.com/VerzatileDevOrg/Programming_HandBook)
 [![Itchio_HandBook Repo](https://github-readme-stats.vercel.app/api/pin/?username=VerzatileDev&repo=Itchio_HandBook&theme=react&hide_border=true)](https://github.com/VerzatileDev/Itchio_HandBook)
+
