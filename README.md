@@ -5,7 +5,7 @@
 <p align="left">
     <a href="https://github.com/Verzatiledev?tab=followers">
         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Verzatiledev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-    <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Verzatiledev?tab=repositories&sort=stargazers">
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Verzatiledev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
     <a href="https://wakatime.com/@c750bcfe-b7cb-4d8e-9808-1c02b3316496">
         <img alt="total stars" title="Total stars on GitHub" src="https://wakatime.com/badge/user/c750bcfe-b7cb-4d8e-9808-1c02b3316496.svg?style=for-the-badge&label=%20&logo=WakaTime&logoColor=black&color=black&labelColor=black"/></a>
