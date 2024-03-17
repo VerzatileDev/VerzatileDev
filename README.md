@@ -1,4 +1,6 @@
-### <img src="https://avatars.githubusercontent.com/u/47317248?v=4" alt="Image Alt Text" width="80" style="border-radius: 50%;"> VerzatileDev - Brian Lätt
+<img src="https://avatars.githubusercontent.com/u/47317248?v=4" alt="Image Alt Text" width="80" style="border-radius: 50%;"> 
+
+### VerzatileDev - Brian Lätt
 
 <p align="left">
     <a href="https://github.com/Verzatiledev?tab=followers">
@@ -40,7 +42,6 @@ Experienced Games Technology graduate with a strong affinity for merging creativ
 3. <a href="https://github.com/stars/VerzatileDev/lists/website-development"> Website Development Repositories </a>
 4. <a href="https://github.com/stars/VerzatileDev/lists/collaboration"> Open Source & Collaboration Repositories </a>
 
-#
 
 #### Featured Repositories: 
 
