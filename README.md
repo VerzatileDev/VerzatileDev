@@ -31,7 +31,7 @@ Experienced Games Technology graduate with a strong affinity for merging creativ
 4. C++
 5. .Net
 6. Python
-7. Css/Html/Js
+7. Css / Html / Js
 
 #
 
