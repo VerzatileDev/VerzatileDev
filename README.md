@@ -4,16 +4,16 @@
 
 <p align="left">
     <a href="https://github.com/Verzatiledev?tab=followers">
-        <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Verzatiledev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Verzatiledev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
     <a href="https://github.com/Verzatiledev?tab=repositories&sort=stargazers">
         <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Verzatiledev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
     <a href="https://wakatime.com/@c750bcfe-b7cb-4d8e-9808-1c02b3316496">
         <img alt="total stars" title="Total stars on GitHub" src="https://wakatime.com/badge/user/c750bcfe-b7cb-4d8e-9808-1c02b3316496.svg?style=for-the-badge&label=%20&logo=WakaTime&logoColor=black&color=black&labelColor=black"/></a>
     <a href="https://github.com/Verzatiledev">
-    <img alt="Total Contributions" title="Total Contributions on GitHub" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Contributions&logo=graph&logoColor=white&color=blue&labelColor=gray&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DVerzatileDev%26type%3Djson"/>
+    <img alt="Total Contributions" title="Total Contributions on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?style=for-the-badge&label=Contributions&logo=graph&logoColor=white&color=blue&labelColor=gray&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DVerzatileDev%26type%3Djson"/>
     </a>
     <a href="https://linktr.ee/verzatiledev">
-    <img alt="URL to medias" title="Page to Contact" src="https://img.shields.io/badge/-plum?style=for-the-badge&logo=comment-discussion&logoColor=white&color=gray&label=Contact"/>
+    <img alt="URL to medias" title="Page to Contact" src="https://custom-icon-badges.demolab.com/badge/-plum?style=for-the-badge&logo=comment-discussion&logoColor=white&color=gray&label=Contact"/>
     </a>
 
 </p>
