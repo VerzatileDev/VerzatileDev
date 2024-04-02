@@ -18,7 +18,7 @@
 
 </p>
 
-Experienced Games Technology graduate with a strong affinity for merging creativity with cutting-edge technology. Journey into game development and software engineering commenced during my undergraduate studies, where I cultivated a passion for crafting immersive experiences through code. With a keen interest in open source development, I am dedicated to exploring innovative solutions and contributing to the advancement of interactive entertainment. Eager to collaborate with like-minded professionals to push the boundaries of possibility in the field.
+Experienced Games Technology graduate with a strong affinity for merging creativity with technology. Journey into game development and software engineering commenced during my undergraduate studies, where I cultivated a passion for crafting immersive experiences through code. With a keen interest in open source development, I am dedicated to exploring innovative solutions and contributing to the advancement of interactive entertainment. Eager to collaborate with like-minded professionals to push the boundaries of possibility in the field.
 
 #
 
