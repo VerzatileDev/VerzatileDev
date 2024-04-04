@@ -18,7 +18,7 @@
 
 </p>
 
-Experienced Games Technology graduate with an interest for open source development and new learningg experiences. Journey into game development and software engineering commenced during my undergraduate studies, where I cultivated a passion for crafting immersive experiences through code. With a keen interest in open source development, I am dedicated to exploring innovative solutions and contributing to the advancement of interactive entertainment. Eager to collaborate with like-minded professionals to push the boundaries of possibility in the field.
+Games Technology graduate with an interest for open source development and new learningg experiences. Journey into game development and software engineering commenced during my undergraduate studies, where I cultivated a passion for crafting immersive experiences through code. Dedicated to exploring innovative solutions and contributing to the advancement of interactive entertainment. Eager to collaborate with like-minded professionals to push the boundaries of possibility in the field.
 
 #
 
