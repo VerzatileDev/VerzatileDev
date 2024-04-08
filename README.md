@@ -18,7 +18,7 @@
 
 </p>
 
-Recent Games Technology graduate with an interest for open source development. Dedicated to exploring and contributing to the advancement of interactive entertainment, Eager to collaborate with like-minded professionals to push the boundaries of possibility in the field.
+Recent Games Technology graduate with an interest for open source development. Dedicated to exploring and contributing to the advancement of interactive entertainment, Eager to collaborate with like-minded developers to push the boundaries of possibility in the field.
 
 #
 
