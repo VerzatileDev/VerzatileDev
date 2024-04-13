@@ -18,7 +18,7 @@
 
 </p>
 
-Games Technology graduate with an interest for open source development. Eager to collaborate with like-minded developers.
+Games Technology graduate with interest for open source development. Eager to collaborate with like-minded developers.
 
 #
 
