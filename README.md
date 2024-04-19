@@ -23,7 +23,7 @@ Games Technology graduate with interest for open source development. Eager to co
 #
 
 
-#### Language Experience
+#### Language Experience:
 
 
 1. C
