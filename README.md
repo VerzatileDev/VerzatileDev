@@ -35,7 +35,7 @@ Games Technology graduate with interest for open source development. Eager to co
 
 #
 
-#### Portfolio
+#### Portfolio:
 
 1. <a href="https://github.com/stars/VerzatileDev/lists/university-repositories"> University Software Repositories </a>
 2. <a href="https://github.com/stars/VerzatileDev/lists/game-development"> Video Game Development Repositories </a>
