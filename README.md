@@ -18,7 +18,7 @@
 
 </p>
 
-Games Technology graduate with interest for open source development. Eager to collaborate with like-minded developers.
+Games Technology graduate with an interest in open-source development. Eager to collaborate with like-minded developers.
 
 #
  
@@ -26,12 +26,12 @@ Games Technology graduate with interest for open source development. Eager to co
 #### Language Experience:
 
 
-1. C
+
+1. C++
 2. C#
-4. C++
-5. .Net
-6. Python
-7. Css / Html / Js
+3. C
+5. Python
+6. CSS / HTML / JavaScript / Ruby
 
 
 #
