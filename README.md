@@ -12,7 +12,7 @@
     <a href="https://github.com/Verzatiledev">
     <img alt="Total Contributions" title="Total Contributions on GitHub" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Contributions&logo=graph&logoColor=white&color=blue&labelColor=gray&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DVerzatileDev%26type%3Djson"/>
 </a>
-<a href="https://linktr.ee/verzatiledev">
+<a href="https://www.verzatiledev.com/contact">
 <img alt="URL to medias" title="Page to Contact" src="https://custom-icon-badges.demolab.com/badge/-plum?style=for-the-badge&logo=comment-discussion&logoColor=white&color=gray&label=Contact"/>
 </a>
 
