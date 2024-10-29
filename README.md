@@ -36,7 +36,6 @@ Games Technology graduate with an interest in open-source development. Eager to 
 6. CSS / HTML / JavaScript / Ruby
 
 
-#
 
 #### Portfolio:
 
