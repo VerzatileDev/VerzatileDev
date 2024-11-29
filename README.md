@@ -1,6 +1,6 @@
  <img src="https://avatars.githubusercontent.com/u/47317248?v=4" alt="Image Alt Text" width="80" style="border-radius: 50%;"> 
   
-### VerzatileDev - Brian                            ´             ´                     
+### VerzatileDev - Brian                            ´             ´                      
    
    
 
